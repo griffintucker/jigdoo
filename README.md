@@ -1,4 +1,4 @@
-jigdoo does a jig, without the jag
+jigdoo can do a jig, without the jag
 
 optimised replacement of jigdo
 
